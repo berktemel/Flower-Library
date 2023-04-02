@@ -1,0 +1,2 @@
+prog3 : main.cpp Flower.cpp FlowerList.cpp FlowerLibrary.cpp
+	g++ main.cpp Flower.cpp FlowerList.cpp FlowerLibrary.cpp -o prog3
